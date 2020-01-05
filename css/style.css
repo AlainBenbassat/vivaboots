@@ -43,7 +43,10 @@ ul.language-switcher-locale-url {
   padding: 0;
 }
 
+ul.language-switcher-locale-url li {
+  float: left;
+}
+
 ul.language-switcher-locale-url li a {
-  display: block;
   margin-left: 25px;
 }
