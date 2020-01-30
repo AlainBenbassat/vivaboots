@@ -9,7 +9,24 @@
   border-top: 0px;
   border-right: 0px;
   border-left: 0px;
-  border-bottom: 6px solid #d5d5d5;
+  border-bottom: 36px solid #d5d5d5;
+}
+
+#block-locale-language {
+  padding-top: 30px;
+}
+
+#block-locale-language li a {
+  width: 29px;
+  height: 29px;
+  background-color: #572a86;
+  border-radius: 29px;
+  padding: 5px;
+  color: #FFFFFF;
+}
+
+#block-locale-language li.active a {
+  background-color: #f5691a;
 }
 
 button.navbar-toggle {
