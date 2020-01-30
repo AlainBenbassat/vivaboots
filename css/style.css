@@ -14,6 +14,7 @@
 
 #block-locale-language {
   padding-top: 30px;
+  float: right;
 }
 
 #block-locale-language li a {
