@@ -29,6 +29,22 @@
   background-color: #f5691a;
 }
 
+ul.language-switcher-locale-url {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.language-switcher-locale-url li {
+  float: left;
+}
+
+ul.language-switcher-locale-url li a {
+  margin-left: 25px;
+}
+
+
+
 button.navbar-toggle {
   display: none;
 }
@@ -53,17 +69,7 @@ div.region-navigation {
   text-align: right;
 }
 
-
-ul.language-switcher-locale-url {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-ul.language-switcher-locale-url li {
-  float: left;
-}
-
-ul.language-switcher-locale-url li a {
-  margin-left: 25px;
+div.webform-datepicker select {
+  display: inline;
+  width: 100px;
 }
